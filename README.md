@@ -1,0 +1,1 @@
+# vs_pyramid_3d_model_for_radio_anechoic_room
